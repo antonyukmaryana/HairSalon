@@ -46,7 +46,3 @@ namespace HairSalon
       public static string ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=maryana_antonyuk;";
     }
 }
-
-Training
-Blog
-About

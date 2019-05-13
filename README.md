@@ -41,6 +41,12 @@ As an employee, I need to be able to add new clients to a specific stylist. I sh
   Application started. Press Ctrl+C to shut down.
 
 6. Open a web browser and go to http://localhost:5000/*
+In MySQL:
+
+> CREATE DATABASE _;
+> USE _;
+> CREATE TABLE  (id serial PRIMARY KEY, name VARCHAR(255));
+> CREATE TABLE  (id serial PRIMARY KEY, description VARCHAR(255));
 
 ## Known Bugs
 * No known bugs at the time.
