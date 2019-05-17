@@ -30,7 +30,7 @@ As an employee, I need to be able to add new clients to a specific stylist. I sh
 2. Clone this repository.
 3. Open Mac Terminal or Windows Command Prompt.
 4. Type "cd HairSalon.Solution" and press enter to go to the solution directory.
-5. Type "cd HairSalonCounter" and press enter to go to the application directory.
+5. Type "cd HairSalon.Solution" and press enter to go to the application directory.
 
   D:\user\ProjectName.Solution\ProjectName>dotnet restore
   D:\user\ProjectName.Solution\ProjectName>dotnet build
